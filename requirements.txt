@@ -1,0 +1,6 @@
+aprslib==0.7.2
+aprspy==0.3.3
+bitstring==4.0.1
+geographiclib==2.0
+geopy==2.3.0
+pyserial==3.5
